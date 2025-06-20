@@ -6,9 +6,8 @@
 - 🌱 I’m learning: React, MongoDB
 - 📫 How to reach me: rjha8563@gmail.com.
   ## 📂 Featured Projects
-
-- 🚀 [Fit Nep](https://github.com/Rahul-Jha18/fit-nep) — Gym & Fitness App using Node.js and 
-- 📝 [Portfolio Website](https://github.com/Rahul-Jha18/portfolio) — Personal Resume & Blog Showcase
+  
+- 📝 [Portfolio Website](https://github.com/Rahul-Jha18/Portfolio-1) — Personal Resume & Blog Showcase
   ## 🎯 Fun Facts
 
 - 🎮 I love wathing and playing cricket.
