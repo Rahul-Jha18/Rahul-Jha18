@@ -2,9 +2,9 @@
 🎓 BSc CSIT Student | 💻 Passionate Coder | 🌐 Web Developer  
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Personal Portfolio & semester project
+- 🔭 I’m currently doing Internship at Nepal Life Insurance 
 - 🌱 I’m learning: React, MongoDB
-- 📫 How to reach me: rjha8563@gmail.com.
+- 📫 How to reach me: rjha8563@gmail.com. Portfolio link:https://portfolio-zeta-ten-5zi2c841av.vercel.app/
   ## 📂 Featured Projects
   
 - 📝 [Portfolio Website](https://github.com/Rahul-Jha18/Portfolio-1) — Personal Resume & Blog Showcase
