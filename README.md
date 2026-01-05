@@ -7,7 +7,7 @@
 - 📫 How to reach me: rjha8563@gmail.com. Portfolio link:https://portfolio-zeta-ten-5zi2c841av.vercel.app/
   ## 📂 Featured Projects
   
-- 📝 [Portfolio Website](https://github.com/Rahul-Jha18/Portfolio-1) — Personal Resume & Blog Showcase
+- 📝 [Portfolio Website](https://github.com/Rahul-Jha18/Asset-Management-System) — Personal Resume & Blog Showcase
   ## 🎯 Fun Facts
 
 - 🎮 I love wathing and playing cricket.
