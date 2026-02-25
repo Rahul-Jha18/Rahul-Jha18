@@ -2,8 +2,7 @@
 🎓 BSc CSIT Student | 💻 Passionate Coder | 🌐 Web Developer  
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently doing Internship at Nepal Life Insurance 
-- 🌱 I’m learning: React, MongoDB
+- Jan 2026: Completed Web Developer Internship at Nepal Life Insurance (IT Station) and was subsequently offered a full-time paid contractual position in recognition of performance and contribution to ongoing IT projects.
 - 📫 How to reach me: rjha8563@gmail.com. Portfolio link:https://portfolio-zeta-ten-5zi2c841av.vercel.app/
   ## 📂 Featured Projects
   
