@@ -6,7 +6,12 @@
 - 📫 How to reach me: rjha8563@gmail.com. Portfolio link:https://portfolio-zeta-ten-5zi2c841av.vercel.app/
   ## 📂 Featured Projects
   
-- 📝 [Asset Management System(NLIC)](https://github.com/Rahul-Jha18/Asset-Management-System) — A system for It station of Nepal Life Insurance for Asset management and records. 
+- 📝 [Asset Management System(NLIC)](https://github.com/Rahul-Jha18/Asset-Management-System) — A system for It station of Nepal Life Insurance for Asset management and records.
+  
+  ## 🎯 WOking goal
+  
+  - Curreently i learning next.js .
+    
   ## 🎯 Fun Facts
 
 - 🎮 I love wathing and playing cricket.
